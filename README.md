@@ -205,7 +205,7 @@ viii) Grafique la curva Potencia vs RL y comente.
 
 *5. VIDEO*
 
-
+https://youtu.be/mhqjcuxB5mw
 
 *6. CONCLUSIONES* 
 - El reducir un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor. 
